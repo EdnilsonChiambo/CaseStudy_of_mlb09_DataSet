@@ -1,4 +1,4 @@
-# CaseStudy_of_mlb09_DataSet
+# CaseStudy_of_mlb09_DataSet in R studio
 
 Please open the file: CaseStudy3_sol.pdf to see the case study
 
